@@ -1,0 +1,12 @@
+{
+  "name": "colorscreen",
+  "displayName": "colorscreen",
+  "expo": {
+    "name": "colorscreen",
+    "slug": "colorscreen",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
